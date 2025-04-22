@@ -5,9 +5,9 @@
                 "mms-tts-vie": {
                     "description": "Massively Multilingual Speech (MMS) : Text-to-Speech Models - Vietnamese",
                     "hf_url": [
-                        "https://huggingface.co/facebook/mms-tts/blob/main/models/vie/G_100000.pth",
-                        "https://huggingface.co/facebook/mms-tts/blob/main/models/vie/config.json",
-                        "https://huggingface.co/facebook/mms-tts/blob/main/models/vie/vocab.txt"
+                        "https://huggingface.co/facebook/mms-tts/resolve/main/models/vie/G_100000.pth",
+                        "https://huggingface.co/facebook/mms-tts/resolve/main/models/vie/config.json",
+                        "https://huggingface.co/facebook/mms-tts/resolve/main/models/vie/vocab.txt"
                     ],
                     "default_vocoder": null,
                     "commit": "9b10038",
